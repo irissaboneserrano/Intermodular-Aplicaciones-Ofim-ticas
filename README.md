@@ -163,3 +163,98 @@ La utilización de servicios cloud permite acceder a los recursos desde cualquie
 | EQ-07 | Impresora de red | Compartida | Oficina central | Firmware interno | Impresora láser WiFi | Servicio de impresión | Compartida por red |
 | EQ-08 | Router | Red | Sala técnica | IOS Cisco | Cisco 1941 | Configuración de red | Acceso a Internet |
 | EQ-09 | Switch | Red | Sala técnica | IOS Cisco | Cisco 2960 | Gestión de red local | Conexión de equipos |
+# Excel Incidencias
+# Proyecto Intermodular — IS PixelStudio
+## Registro de incidencias ofimáticas
+### Iris Saboné — 1º SMR
+
+---
+
+| Fecha | ID Equipo | Usuario | Problema | Prioridad | Estado | Solución | Técnico |
+|---|---|---|---|---|---|---|---|
+| 2026-05-10 | EQ-01 | Diseño 1 | Photoshop se cierra inesperadamente | Alta | Resuelto | Reinstalación del software | Carlos |
+| 2026-05-10 | EQ-07 | Oficina | Impresora sin conexión WiFi | Media | Resuelto | Reconexión a la red | Javier |
+| 2026-05-11 | EQ-03 | Marketing | Navegador muy lento | Baja | En proceso | Limpieza de caché | Ana |
+| 2026-05-11 | EQ-06 | Soporte Técnico | VirtualBox no inicia máquinas | Alta | Pendiente | Revisión de virtualización BIOS | Carlos |
+| 2026-05-12 | EQ-08 | Red | Pérdida de conexión a Internet | Alta | Resuelto | Reinicio del router Cisco | Javier |
+# Presentación
+# Empresa de diseño gráfico
+## IS PixelStudio — Presentación
+### Iris Saboné — 1º SMR
+
+---
+
+## Diapositiva 1 — Portada
+
+**EMPRESA de diseño gráfico**
+
+*Iris Saboné*
+
+---
+
+## Diapositiva 2 — ¿Qué es IS PixelStudio?
+
+**IS PixelStudio** es una empresa dedicada al **diseño gráfico, marketing digital y soporte técnico informático.** La empresa trabaja con herramientas digitales para la creación de contenido visual, gestión de redes sociales y mantenimiento de sistemas informáticos.
+
+**Departamentos:**
+- Diseño gráfico
+- Marketing
+- Administración
+- Soporte técnico
+- Gerencia
+
+---
+
+## Diapositiva 3 — Equipos informáticos
+
+Cada departamento utiliza **equipos adaptados** a sus necesidades para garantizar un buen rendimiento y productividad.
+
+| Departamento | Equipo |
+|---|---|
+| Diseño | PCs de alto rendimiento |
+| Marketing | PC multimedia |
+| Administración | PC de oficina |
+| Técnico | PC para soporte y virtualización |
+
+---
+
+## Diapositiva 4 — Red de la empresa
+
+La **red local** permite conectar todos los equipos de la empresa y compartir recursos como impresoras y acceso a Internet.
+
+Todos los equipos (Marketing, Diseño1, Diseño2, Administración, Gerente, Técnico e Impresora) están conectados a través de un **Switch**, que a su vez se conecta al **Router** para el acceso a Internet.
+
+---
+
+## Diapositiva 5 — Sistema operativo
+
+La empresa utiliza **Windows 11 Pro** por su compatibilidad con aplicaciones profesionales, facilidad de uso y herramientas de administración.
+
+- Seguridad mejorada frente a amenazas
+- Compatibilidad con programas profesionales
+- Facilidad de uso para los empleados
+- Herramientas de administración empresarial
+- Actualizaciones y soporte de Microsoft
+
+---
+
+## Diapositiva 6 — Ventajas del sistema
+
+- Buen rendimiento
+- Seguridad
+- Escalabilidad
+- Compartición de recursos
+- Organización empresarial
+- Compatibilidad con software profesional
+
+---
+
+## Diapositiva 7 — Conclusión
+
+Este proyecto ha permitido diseñar un sistema informático completo para una empresa realista, aplicando conocimientos de **hardware, redes, sistemas operativos, ofimática y computación en la nube.**
+
+---
+
+## Diapositiva 8 — Cierre
+
+**¡Muchas gracias!**
