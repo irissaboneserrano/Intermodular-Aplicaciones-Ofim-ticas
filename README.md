@@ -1,1 +1,146 @@
 # Intermodular-Aplicaciones-Ofim-ticas
+# Proyecto Intermodular
+## Aplicaciones Ofimáticas
+### Iris Saboné — 1º SMR
+
+---
+
+## Índice
+
+1. Nombre de la empresa
+2. ¿A qué se dedica la empresa?
+3. ¿Qué tipo de empleados tiene?
+   - Departamento de diseño
+   - Departamento de marketing
+   - Administración
+   - Soporte técnico
+4. Infraestructura informática
+5. Sistema operativo utilizado
+6. Software utilizado
+7. Servicios cloud
+8. Medidas de seguridad
+
+---
+
+## Nombre de la empresa
+
+El nombre de la empresa es "**IS PixelStudio**", una pequeña empresa orientada al **diseño gráfico** y **marketing digital.**
+
+El proyecto consiste en diseñar toda la **infraestructura informática** necesaria para el funcionamiento de la empresa, incluyendo **equipos informáticos, red local, sistemas operativos y servicios cloud.**
+
+---
+
+## ¿A qué se dedica la empresa?
+
+La empresa está especializada en **diseño gráfico, edición de contenido digital y creación de material publicitario** para empresas y clientes particulares.
+
+Entre los servicios que ofrece destacan:
+
+- Diseño de **logotipos**
+- **Edición** de **imágenes**
+- Creación de contenido para **redes sociales**
+- Diseño de **carteles** y **publicidad digital**
+- Gestión básica de **marketing digital**
+
+La empresa trabaja principalmente utilizando herramientas informáticas y aplicaciones de diseño profesional.
+
+---
+
+## ¿Qué tipo de empleados tiene?
+
+La empresa cuenta con varios departamentos, cada uno con funciones diferentes:
+
+### Departamento de diseño
+
+Encargado de la creación de contenido gráfico y edición de imágenes. Necesita equipos de alto rendimiento debido al uso de programas de diseño.
+
+### Departamento de marketing
+
+Gestiona redes sociales, contenido digital y comunicación con clientes.
+
+### Administración
+
+Se encarga de tareas administrativas, gestión de documentos y organización interna de la empresa.
+
+### Soporte técnico
+
+Responsable del mantenimiento de equipos, configuración de sistemas y resolución de incidencias informáticas.
+
+---
+
+## Infraestructura informática
+
+La infraestructura informática de la empresa está formada por varios equipos conectados mediante una **red local.**
+
+Los **dispositivos** principales utilizados son:
+
+- Equipos de sobremesa
+- Router
+- Switch
+- Impresora de red
+- Recursos compartidos
+
+La empresa dispone de los siguientes equipos:
+
+- Dos equipos para diseño gráfico
+- Un equipo para marketing
+- Dos equipos para administración
+- Un equipo técnico
+
+Todos los equipos están conectados a través de un **switch central**, permitiendo la comunicación entre dispositivos y el acceso a **Internet**.
+
+También se ha planteado el uso de una **impresora** compartida accesible desde la red local.
+
+---
+
+## Sistema operativo utilizado
+
+El sistema operativo seleccionado para los equipos de la empresa es **Windows 11.**
+
+La elección de este sistema operativo se debe a su **compatibilidad** con aplicaciones profesionales, facilidad de uso y amplio soporte técnico.
+
+Además, Windows 11 ofrece herramientas de **seguridad**, **gestión** de **usuarios** y **compatibilidad** con **periféricos** y **software** utilizado habitualmente en entornos empresariales.
+
+Se crearon distintos usuarios según el rol de cada departamento:
+
+- Administrador
+- Técnico
+- Diseño
+- Marketing
+- Administración
+
+---
+
+## Software utilizado
+
+En los equipos se ha instalado el software necesario para el funcionamiento de la empresa.
+
+Entre las aplicaciones instaladas destacan:
+
+- Navegador web
+- Suite ofimática
+- Lector de PDF
+- Herramientas de diseño gráfico
+- Software básico de mantenimiento
+
+Estas aplicaciones permiten realizar las tareas diarias de cada departamento de forma eficiente.
+
+---
+
+## Servicios cloud
+
+La empresa utiliza servicios cloud mediante **Amazon Web Services (AWS).**
+
+Los servicios principales utilizados son:
+
+- **Amazon S3** para almacenamiento de archivos
+- **Amazon EC2** para servidores virtuales
+- **AWS IAM** para gestión de usuarios y permisos
+
+La utilización de servicios cloud permite acceder a los recursos desde cualquier lugar y facilita el almacenamiento seguro de la información.
+
+---
+
+## Medidas de seguridad
+
+*(Sección incluida en el índice del documento original sin contenido desarrollado en las páginas disponibles.)*
