@@ -145,3 +145,21 @@ La utilización de servicios cloud permite acceder a los recursos desde cualquie
 ## Medidas de seguridad
 
 *(Sección incluida en el índice del documento original sin contenido desarrollado en las páginas disponibles.)*
+# Excel Inventario
+# Proyecto Intermodular — IS PixelStudio
+## Inventario de equipos ofimáticos
+### Iris Saboné — 1º SMR
+
+---
+
+| ID | Equipo | Usuario / Departamento | Ubicación | Sistema Operativo | Hardware principal | Software principal | Observaciones |
+|---|---|---|---|---|---|---|---|
+| EQ-01 | PC Diseño 1 | Diseño | Oficina Diseño | Windows 11 Pro | i7, 32GB RAM, RTX 4060, SSD 1TB | Photoshop, Illustrator, LibreOffice | Equipo de alto rendimiento |
+| EQ-02 | PC Diseño 2 | Diseño | Oficina Diseño | Windows 11 Pro | i7, 32GB RAM, RTX 4060, SSD 1TB | Photoshop, Illustrator, LibreOffice | Equipo para edición gráfica |
+| EQ-03 | PC Marketing | Marketing | Oficina Marketing | Windows 11 Pro | Ryzen 5, 16GB RAM, SSD 512GB | Canva, navegador web, LibreOffice | Uso de redes sociales |
+| EQ-04 | PC Administración 1 | Administración | Oficina Administración | Windows 11 Pro | i5, 16GB RAM, SSD 512GB | LibreOffice, PDF, navegador web | Gestión documental |
+| EQ-05 | PC Gerente | Gerencia | Despacho Gerencia | Windows 11 Pro | i5, 16GB RAM, SSD 512GB | LibreOffice, navegador web | Equipo administrativo |
+| EQ-06 | PC Técnico | Soporte Técnico | Soporte Técnico | Windows 11 Pro | Ryzen 7, 16GB RAM, SSD 1TB | Packet Tracer, VirtualBox | Mantenimiento y soporte |
+| EQ-07 | Impresora de red | Compartida | Oficina central | Firmware interno | Impresora láser WiFi | Servicio de impresión | Compartida por red |
+| EQ-08 | Router | Red | Sala técnica | IOS Cisco | Cisco 1941 | Configuración de red | Acceso a Internet |
+| EQ-09 | Switch | Red | Sala técnica | IOS Cisco | Cisco 2960 | Gestión de red local | Conexión de equipos |
